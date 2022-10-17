@@ -1,0 +1,5 @@
+package: petstore
+generate:
+  echo-server: true
+  embedded-spec: true
+output: server.gen.go
