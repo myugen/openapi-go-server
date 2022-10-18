@@ -1,0 +1,4 @@
+[submodule "openapi"]
+	path = openapi
+	url = https://github.com/myugen/openapi-specs
+	branch = v1.0.0
